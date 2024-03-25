@@ -2,11 +2,11 @@ Add-Type -AssemblyName System.Windows.Forms
 
 $duration = 10  # Duration of the effect in seconds
 $interval = 100  # Interval between flickers in milliseconds
-$color1 = "Black"
-$color2 = "Green"
-$color3 = "Red"
-$color4 = "Yellow"
-$color5 = "Blue"
+$color1 = "Red"
+$color2 = "Yellow"
+$color3 = "Green"
+$color4 = "Blue"
+$color5 = "Pink"
 $color6 = "white"
 
 $startTime = Get-Date
